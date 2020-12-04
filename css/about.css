@@ -1,0 +1,14 @@
+.first{
+  background-color: darkgreen;
+}
+.second{
+  text-align: left;
+  width: 200px;
+}
+nav{
+  padding-left: 440px;
+  color: white;
+}
+nav > h2{
+  padding-left: 64px;
+}
